@@ -1,0 +1,6 @@
+[submodule "react-sound-player"]
+	path = react-sound-player
+	url = https://github.com/Maxtermax/react-sound-player.git
+[submodule "calculator-testing"]
+	path = calculator-testing
+	url = https://github.com/Maxtermax/calculator-testing.git
